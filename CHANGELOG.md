@@ -3,6 +3,7 @@
 #### Added
 
 - RabbitMQ Pub Sub functionality (beta version: 0.3.0)
+- Vercel JSON for vercel deployment
 
 #### Contributors to this release
 

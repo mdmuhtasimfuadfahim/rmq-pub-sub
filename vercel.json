@@ -1,0 +1,9 @@
+{
+    "outputDirectory": "dist",
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "https://github.com/mdmuhtasimfuadfahim/rmq-pub-sub"
+        }
+    ]
+}
