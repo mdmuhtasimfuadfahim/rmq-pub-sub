@@ -1,0 +1,28 @@
+{
+  "name": "rmq-pub-sub",
+  "version": "0.3.0",
+  "description": "Designed based on the RabbitMQ Pub-Sub.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdmuhtasimfuadfahim/rmq-pub-sub.git"
+  },
+  "keywords": [
+    "RabbitMQ",
+    "NodeJS",
+    "Winston",
+    "Joi"
+  ],
+  "author": "Md. Muhtasim Fuad Fahim <mdmuhtasim.fahim@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdmuhtasimfuadfahim/rmq-pub-sub/issues"
+  },
+  "homepage": "https://github.com/mdmuhtasimfuadfahim/rmq-pub-sub#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "dotenv": "^16.0.3",
+    "joi": "^17.9.2",
+    "winston": "^3.8.2"
+  }
+}

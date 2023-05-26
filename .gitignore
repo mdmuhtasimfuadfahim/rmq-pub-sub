@@ -1,0 +1,12 @@
+# node modules
+node_modules
+
+# log & lock files
+rabbitmq.log
+package-lock.json
+
+# DS store
+.DS_Store
+
+# env file
+.env
