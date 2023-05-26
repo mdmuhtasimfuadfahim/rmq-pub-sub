@@ -11,7 +11,7 @@
 - [Example](#example)
 - [How To Contribute](#how-to-contribute)
 - [Changelog](#changelog)
-- [Project Activity](#project-activity)
+<!-- - [Project Activity](#project-activity) -->
 - [License](#license)
 - [Contact](#contact)
 
@@ -103,9 +103,9 @@ Now run the both services in your machine and hit the API: `http://localhost:300
 See [CHANGELOG.md](CHANGELOG.md).
 
 
-<h2 id="project-activity">Project Activity</h2>
+<!-- <h2 id="project-activity">Project Activity</h2>
 
-![Alt](https://repobeats.axiom.co/api/embed/f4cb6da776e9edc2d8118aff4e0c1ae9afe37896.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/f4cb6da776e9edc2d8118aff4e0c1ae9afe37896.svg "Repobeats analytics image") -->
 
 
 <h2 id="license">License</h2>
