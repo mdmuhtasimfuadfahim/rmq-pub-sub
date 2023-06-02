@@ -50,16 +50,6 @@ class LoggerService {
   }
 
   /**
-   * Asynchronously logs an "info" message.
-   *
-   * @param {any} message - The message to be logged.
-   * @return {Promise<void>} A promise that resolves when the message has been logged.
-   */
-  async info(message) {
-    this.logger.log('info', message);
-  }
-
-  /**
    * Sets the topic and logs a message with accompanying data at the 'info' level.
    *
    * @param {any} topic - the topic to be set
@@ -72,16 +62,6 @@ class LoggerService {
     this.logger.log('info', message, {
       data,
     });
-  }
-
-  /**
-   * Asynchronously logs a debug message.
-   *
-   * @param {any} message - The message to be logged.
-   * @return {Promise<void>} - A promise that resolves when the message has been logged.
-   */
-  async debug(message) {
-    this.logger.log('debug', message);
   }
 
   /**

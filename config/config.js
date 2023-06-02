@@ -16,5 +16,5 @@ if (error) {
 }
 
 module.exports = {
-  AMQP_URL: process.env.AMQP_URL,
+  AMQP_URL: envVars.AMQP_URL,
 };

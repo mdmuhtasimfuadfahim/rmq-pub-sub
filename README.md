@@ -10,8 +10,9 @@
 - [Installation](#installation)
 - [Example](#example)
 - [How To Contribute](#how-to-contribute)
+- [Test](#test)
 - [Changelog](#changelog)
-<!-- - [Project Activity](#project-activity) -->
+- [Project Activity](#project-activity)
 - [License](#license)
 - [Contact](#contact)
 
@@ -78,7 +79,7 @@ AMQP_URL = "amqp://localhost"
 docker run --name rabbitmq -p 5672:5672 rabbitmq
 ```
 
-Now run the both services in your machine and hit the API: `http://localhost:3002/send` 🥳
+Now run the both services in your machine and hit the API: `http://localhost:${PORT}/send` 🥳
 
 
 <h2 id="how-to-contribute">How To Contribute</h2>
@@ -98,14 +99,23 @@ Now run the both services in your machine and hit the API: `http://localhost:300
 </p>
 
 
+<h2 id="test">Test</h2>
+
+- Fork it 😎
+- Clone forked repository: `git clone https://github.com/username/forked-name.git`
+- Install the dependencies from root directory: `npm install`
+- Rename `.env.example` to `.env`
+- Now run: `npm run test` or `npm run test:watch` or `npm run coverage` & see the results 🥳
+
+
 <h2 id="changelog">Changelog</h2>
 
 See [CHANGELOG.md](CHANGELOG.md).
 
 
-<!-- <h2 id="project-activity">Project Activity</h2>
+<h2 id="project-activity">Project Activity</h2>
 
-![Alt](https://repobeats.axiom.co/api/embed/f4cb6da776e9edc2d8118aff4e0c1ae9afe37896.svg "Repobeats analytics image") -->
+![Alt](https://repobeats.axiom.co/api/embed/04dedd11c223249d477a5ca5de837a6c6df53551.svg "Repobeats analytics image")
 
 
 <h2 id="license">License</h2>
