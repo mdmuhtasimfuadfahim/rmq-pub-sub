@@ -34,7 +34,7 @@ This example shows you how to create microservice and add pub-sub to communicate
 
 #### Project Structure
 
-<img width="254" alt="project structure" src="https://github.com/mdmuhtasimfuadfahim/my-packages/assets/69357704/8142fc6f-7379-4342-8edd-776f6897e876">
+<img width="254" alt="project structure" src="https://private-user-images.githubusercontent.com/69357704/265891669-8142fc6f-7379-4342-8edd-776f6897e876.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTM5NzQzOTksIm5iZiI6MTY5Mzk3NDA5OSwicGF0aCI6Ii82OTM1NzcwNC8yNjU4OTE2NjktODE0MmZjNmYtNzM3OS00MzQyLThlZGQtNzc2ZjY4OTdlODc2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA5MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwOTA2VDA0MjEzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3YTc2ZWYxZTEwMDA3NjM4ZDMzN2M2MDNjZDU5MmE2YWM1N2YzNzUzMzgxMmQzYzlmZjg4YmI0ZWYyNTEyZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.R7aAraovw-QQtBkSK6wxp_tleW0Tjv9ilKHDEJ5a9PA">
 
 > Note: Create NodeJS environment in both service-1 and service-2 and create server using your favourite NodeJS framework.
 
