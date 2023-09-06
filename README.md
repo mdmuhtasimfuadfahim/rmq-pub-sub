@@ -34,7 +34,7 @@ This example shows you how to create microservice and add pub-sub to communicate
 
 #### Project Structure
 
-<img width="254" alt="project-structure" src="https://github-production-user-asset-6210df.s3.amazonaws.com/69357704/239943567-9e0ed7e0-c7b3-45e6-bcda-f68c5a6d5933.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230522T161749Z&X-Amz-Expires=300&X-Amz-Signature=a927048e9bab37c3974f863a9708c6b07795e9a89d636c69f9ad20958850f407&X-Amz-SignedHeaders=host&actor_id=69357704&key_id=0&repo_id=640056186">
+<img width="254" alt="project structure" src="https://github.com/mdmuhtasimfuadfahim/my-packages/assets/69357704/8142fc6f-7379-4342-8edd-776f6897e876">
 
 > Note: Create NodeJS environment in both service-1 and service-2 and create server using your favourite NodeJS framework.
 

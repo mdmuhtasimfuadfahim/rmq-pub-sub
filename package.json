@@ -1,6 +1,6 @@
 {
   "name": "rmq-pub-sub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Designed based on the RabbitMQ Pub-Sub.",
   "main": "index.js",
   "repository": {

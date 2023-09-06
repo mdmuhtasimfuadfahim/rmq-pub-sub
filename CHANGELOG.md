@@ -1,3 +1,13 @@
+### [1.0.1] - 2023-06-09
+
+#### Added
+
+- Project structure image added to README.md
+
+#### Contributors to this release
+
+- <img src="https://avatars.githubusercontent.com/u/69357704?v=4/u/12586868?v&#x3D;4&amp;s&#x3D;18" alt="avatar" width="18"/> [Md. Muhtasim Fuad Fahim](https://github.com/mdmuhtasimfuadfahim)
+
 ### [1.0.0] - 2023-03-06
 
 #### Added
